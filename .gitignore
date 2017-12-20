@@ -18,3 +18,11 @@ classes/
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
